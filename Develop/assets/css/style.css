@@ -25,6 +25,9 @@ header h1 .links {
         margin-left: 25px;
         
     }
+    .links{
+        text-align: right
+    }
 
 header h1 .seo {
     color: #d9dcd6;
